@@ -1,8 +1,8 @@
-These scripts were used for analyzing the phosphoproteome data from Ovarian cancer tissue and SKOV3 cell line.
+# These scripts were used for analyzing the phosphoproteome data from Ovarian cancer tissue and SKOV3 cell line.
 
 
-Requirements
-These scripts depend on the following packages, which can be installed in R:
+# Requirements:
+# These scripts depend on the following packages, which can be installed in R:
 
 reshape
 ggplot2
