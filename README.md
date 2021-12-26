@@ -22,10 +22,10 @@ The b and y ion information are extracted from the "msms.txt" file.
 
 # Scripts are in Scripts directory
 	
-* The [*"Distribution of b,y ions.R"*](Script/Distribution of b,y ions.R) script calculates the distribution of b and y ion for the identifed phosphopeptides and peptides.
+* The [*"Distribution_of_b_y_ions.R"*](Script/Distribution_of_b_y_ions.R) script calculates the distribution of b and y ion for the identifed phosphopeptides and peptides.
 	
-* The [*"Enriched kinase and motif.R"*](Script/Enriched kinase and motif.R) script plots the kinase enrichment analysis and sequence motif analysis.
+* The [*"Enriched_kinase_and_motif.R"*](Script/Enriched_kinase_and_motif.R) script plots the kinase enrichment analysis and sequence motif analysis.
 	
-* The [*"CV plot and boxplot of the correlation parameters.R"*](Script/CV plot and boxplot of the correlation parameters.R) script plots the density plot of our CV values and the boxplot of the Pearson correlation parameters.
+* The [*"CV_boxplot_of_correlation.R"*](Script/CV_boxplot_of_correlation.R) script plots the density plot of our CV values and the boxplot of the Pearson correlation parameters.
 	
 * The [*"VennDiagram.R"*](Script/VennDiagram.R) script plots Venn diagram of the analysed data.
