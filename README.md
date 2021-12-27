@@ -20,7 +20,7 @@ The phosphosites identification and quantification information are extrated from
 The phospho-peptides identification information are extrated from the "modificationSpecificPeptides.txt" file.
 The b and y ion information are extracted from the "msms.txt" file.
 
-# Scripts are in Scripts directory
+# Scripts in "Script" directory
 	
 * The [*"Distribution_of_b_y_ions.R"*](Script/Distribution_of_b_y_ions.R) script calculates the distribution of b and y ion for the identifed phosphopeptides and peptides.
 	
